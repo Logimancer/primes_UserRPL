@@ -3,7 +3,7 @@ library=1
 IncludeUserRPL=1
 AutoLoad=0
 Compress=0
-Calc48=1
+Calc48=0
 KeepAll=0
 UseDefaultEntryList=1
 WarnRamChanges=1
@@ -26,3 +26,5 @@ DirPath=
 RPL_INCLUDE=
 SasmParams=
 LRFiles=
+[Files]
+file1=primes.s
